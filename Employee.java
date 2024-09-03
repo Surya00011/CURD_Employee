@@ -1,5 +1,3 @@
-package com.surya;
-
 public class Employee {
     private int empid;
     private String empname;
@@ -10,7 +8,7 @@ public class Employee {
         this.empname=empname;
         this.salary=salary;
     }
-    /* Since the instance variyables are in private in oder to
+    /* Since the instance variables are in private in order to
     access the we create getter methods here*/
 
     public int getEmpid() {
