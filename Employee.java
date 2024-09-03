@@ -24,7 +24,7 @@ public class Employee {
     public String getEmpname() {
         return empname;
     }
-    // Whenever user creates instance of Employee class we have to print employee details
+    // Whenever user creates instance of Employee class we have to return employee details
     public String toString(){
         String s;
         s = "EmpID: " + empid + ",EmpName: " + empname + ",Salary: " + salary;
