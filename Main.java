@@ -93,7 +93,7 @@ public class Main {
                                 if (!found) {
                                     System.out.println("Record Not Found :( ");
                                 } else {
-                                    System.out.println("Rcord is Updated Successfully..!");
+                                    System.out.println("Record is Updated Successfully..!");
                                 }
                                 System.out.println("-------------------------");
                                 break;
